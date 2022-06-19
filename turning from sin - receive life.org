@@ -1,0 +1,6 @@
+#+BRAIN_PARENTS: index
+:RESOURCES:
+- [[https://biblehub.com/nkjv/ezekiel/18.htm]]
+:END:
+
+
