@@ -1,11 +1,18 @@
 #+BRAIN_PARENTS: index
 
+https://thriveworks.com/blog/confident-or-narcissistic/
+
+Confidence is good.
+
 https://www.news-medical.net/health/Seven-Deadly-Sins-of-Narcissism.aspx
 
 There is a lie in the above article, about 'magical thinking'.
 Magical thinking is nothing to do with perceiving themself as perfect and flawless.
 
 [[brain:shadow/projection]]
+
+- lack of empathy
+  - hypocrisy
 
 The 7 Deadly sins of Narcissism:
 + =Shamelessness= :: Shame is the underlying factor in all cases of unhealthy narcissism. In a healthy person, shame is processed in a normal manner, whereas narcissists have difficulty processing this feeling in a healthy way. Narcissists also tend to inflict shame on other people, a concept referred to as projection.
