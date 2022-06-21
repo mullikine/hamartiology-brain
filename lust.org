@@ -2,13 +2,15 @@
 
 https://www.biblegateway.com/passage/?search=1%20Peter+2&version=KJV
 
-11 Dearly beloved, I beseech you as strangers and pilgrims, abstain from fleshly lusts, which war against the soul; 
-
-12 Having your conversation honest among the Gentiles: that, whereas they speak against you as evildoers, they may by
-your good works, which they shall behold, glorify God in the day of visitation. 
-
-13 Submit yourselves to every ordinance of man for the Lord's sake: whether it be to the king, as supreme; 
-
-14 Or unto governors, as unto them that are sent by him for the punishment of evildoers, and for the praise of them that
-do well. 
+#+BEGIN_SRC text -n :async :results verbatim code
+  11 Dearly beloved, I beseech you as strangers and pilgrims, abstain from fleshly lusts, which war against the soul; 
+  
+  12 Having your conversation honest among the Gentiles: that, whereas they speak against you as evildoers, they may by
+  your good works, which they shall behold, glorify God in the day of visitation. 
+  
+  13 Submit yourselves to every ordinance of man for the Lord's sake: whether it be to the king, as supreme; 
+  
+  14 Or unto governors, as unto them that are sent by him for the punishment of evildoers, and for the praise of them that
+  do well.   
+#+END_SRC
 
