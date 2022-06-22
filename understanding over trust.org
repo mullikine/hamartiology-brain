@@ -1,4 +1,5 @@
 #+BRAIN_PARENTS: index
 
-[[https://www.youtube.com/watch?v=5ICz7SocJ8g][The Sin of Independence - part 1 - Derek Prince - YouTube]]
+- [[https://www.youtube.com/watch?v=5ICz7SocJ8g][The Sin of Independence - part 1 - Derek Prince - YouTube]]
+- [[https://www.youtube.com/watch?v=K25fq_WiUsE][The Sin of Independence - Part 2 - Derek Prince - YouTube]]
 
