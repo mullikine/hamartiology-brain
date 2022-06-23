@@ -6,6 +6,7 @@
   :END:
 
 y:pride
+
 #+BEGIN_SRC text -n :async :results verbatim code
   pride
       One sense of the word 'pride' is exalting
