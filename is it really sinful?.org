@@ -4,6 +4,25 @@
   :PROPERTIES:
   :ID:       5381d418-97c9-4893-becf-763611f44565
   :END:
+
+y:pride
+#+BEGIN_SRC text -n :async :results verbatim code
+  pride
+      One sense of the word 'pride' is exalting
+      thyself.
+  
+      The word 'pride' has too wide a semantic
+      demain to be called a sin. Conceit, most
+      centainly.
+  
+      Some senses of pride are not sinful:
+      “I have the highest confidence in you, and
+      I take great pride in you. You have
+      greatly encouraged me and made me happy
+      despite all our troubles” (2 Corinthians
+      7:4, NLT).
+#+END_SRC
+
 * desire
   :PROPERTIES:
   :ID:       adc0eccf-0da0-4c3a-a2fa-2904e92a7d86
